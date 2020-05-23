@@ -1,0 +1,17 @@
+{
+  "name": "server-fake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minecraft-protocol": "^1.11.0",
+    "prismarine-chunk": "^1.16.0",
+    "request": "^2.88.2",
+    "vec3": "^0.1.4"
+  }
+}
